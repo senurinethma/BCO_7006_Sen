@@ -1,2 +1,2 @@
 # BCO_7006_Sen
-**Basic** practice walk through with `Git Hub`
+**Basic Practice** walk through with `Git Hub`
